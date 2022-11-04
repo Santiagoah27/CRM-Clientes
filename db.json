@@ -1,0 +1,42 @@
+{
+  "customers": [
+    {
+      "nombre": "Jose",
+      "empresa": "Kin and Carta",
+      "email": "jose@kinandcarta.com",
+      "telefono": "102013313",
+      "notas": "Este cliente necesita un POS",
+      "id": 1
+    },
+    {
+      "nombre": "Karen Navarro",
+      "empresa": "Kin and Carta",
+      "email": "karen@kinandcarta.com",
+      "telefono": "138198313",
+      "notas": "Necesita el update de PROD para el miercoles 19 de noviembre",
+      "id": 2
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@kinandcarta.com",
+      "empresa": "Kin and Carta"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@kinandcarta.com",
+      "empresa": "Kin and Carta"
+    },
+    {
+      "nombre": "Santiago",
+      "empresa": "Kin and Carta",
+      "email": "santiago.herrera@kinandcarta.com",
+      "telefono": "3125428298",
+      "notas": "EL cliente desea un ecommerce",
+      "id": 6
+    }
+  ]
+}
